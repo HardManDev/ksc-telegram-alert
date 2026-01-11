@@ -1,0 +1,9 @@
+{
+  "telegram": {
+    "chat_id": "",
+    "bot_token": ""
+  },
+  "skip_ssl": true,
+  "hide_ip": true,
+  "hide_app_info": true
+}
